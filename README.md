@@ -2,6 +2,6 @@
 **Objective**: Demonstrate ability to build a website.
 
 
-[Debbie Chong portfolio](https://debbiechong.com)
+[Debbie Chong portfolio](http://www.debbiechong.com/)
 
 ![dog](ruff.png)
