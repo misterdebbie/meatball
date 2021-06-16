@@ -4,4 +4,4 @@
 
 [Debbie Chong portfolio](https://debbiechong.com)
 
-![dog]ruff.png
+![dog](ruff.png)
